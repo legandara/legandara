@@ -1,6 +1,6 @@
 Hola I am Leslie Gandara 🌱
 
-As a Mexican computer science student studying in the USA and possessing eight years of practical experience in the finance industry, I have discovered a significant missing piece necessary for solving the problems I come across. Consequently, I have embarked on a journey to fill this gap and enhance my problem-solving abilities.
+As a Mexican Computer Science student studying in the USA and possessing eight years of practical experience in the finance industry, I have discovered a significant missing piece necessary for solving the problems I come across. Consequently, I have embarked on a journey to fill this gap and enhance my problem-solving abilities.
 
 I come from small town in Chihuahua, so I have a lot perspectives about the world
 <!--
